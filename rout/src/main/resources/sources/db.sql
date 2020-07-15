@@ -40,7 +40,6 @@ group_id int references groups (id)
 );
 
 
-
 create table rout_mapping_entertainments(
 id serial primary key,
 entertainments_id int references entertainments(id),

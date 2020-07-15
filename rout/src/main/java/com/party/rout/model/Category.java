@@ -1,4 +1,4 @@
-package com.party.rout.dao;
+package com.party.rout.model;
 
 
 import javax.persistence.*;
